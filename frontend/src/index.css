@@ -66,18 +66,8 @@ header a {
   border-radius: 50%;
   color: #333;
 }
-.workout-details button {
-  position: absolute;
-  top: 20px;
-  right: 20px;
-  cursor: pointer;
-  background: var(--primary);
-  border: 0;
-  color: #fff;
-  padding: 10px;
-  font-family: "Poppins";
-  border-radius: 4px;
-}
+
+
 
 /* new workout form */
 label, input {
