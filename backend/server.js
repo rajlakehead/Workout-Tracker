@@ -13,7 +13,7 @@ const app = express()
 // middleware
 app.use(express.json())
 
-app.use(cors({ origin: 'https://frontend2-inky.vercel.app',
+app.use(cors({ origin: 'workout-tracker-iczq.vercel.app',
                 methods: ["POST", "GET", "DELETE"],
                 credentials: true}))
 
